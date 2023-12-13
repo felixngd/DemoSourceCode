@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e1b74259cf44d11b6f4e770bd7b0a59, type: 3}
+  m_Name: Green Fish
+  m_EditorClassIdentifier: 
+  _id: 1137785724
+  _title: Fish Green
+  _description: Lorum ipsum.
+  itemRarity: 0
+  slotHolder: {fileID: 0}
+  _icon: {fileID: 21300000, guid: b416145d20baa364598d07e1740ae2fb, type: 3}
+  prefab: {fileID: 2628868275445340223, guid: 58824a2416a4848e3b55bc11197e33b6, type: 3}
+  maxStackSize: 999
+  value: 10
+  m_useCooldown: 1
